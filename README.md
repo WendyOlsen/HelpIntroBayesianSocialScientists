@@ -1,10 +1,10 @@
 # HelpIntroBayesianSocialScientists
 Bayesian statistics for social scientists, a four-part Introduction with Exercises
 
-These four helpful files on Introductory Bayesian social statistics include:
-   one Exercises document, <br />
-   one 2-page Poster in powerpoint (PDF) at large scale, and  <br />
-   a set of 40 Powerpoint slides.  <br />
+These four helpful files on Introductory Bayesian social statistics include: <br />
+  &nbsp;&nbsp; one Exercises document, <br />
+  &nbsp;&nbsp; one 2-page Poster in powerpoint (PDF) at large scale, and  <br />
+  &nbsp;&nbsp; a set of 40 Powerpoint slides.  <br />
 Use all these for self-managed learning.  Or hold a workshop and learn together! <br /><br />
 <br />
 
